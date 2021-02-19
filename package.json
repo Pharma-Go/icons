@@ -1,0 +1,21 @@
+{
+  "name": "pharmago-icons-impacta",
+  "private": false,
+  "version": "0.0.4",
+  "main": "dist/PharmaGo-Icons.css",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "node build.js --html",
+    "prepublish": "yarn build"
+  },
+  "dependencies": {
+    "change-case": "^4.1.2",
+    "rimraf": "^3.0.2",
+    "webfont": "^9.0.0"
+  },
+  "description": "Ícones PharmaGO",
+  "author": "Lucas Sesti <lucas.sesti@aluno.faculdadeimpacta.com.br>",
+  "license": "MIT"
+}

@@ -1,0 +1,41 @@
+@font-face{
+  font-family: "PharmaGo-Icons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: url("./PharmaGo-Icons.eot");
+  src: url("./PharmaGo-Icons.eot?#iefix") format("embedded-opentype"), url("./PharmaGo-Icons.woff2") format("woff2"), url("./PharmaGo-Icons.woff") format("woff"), url("./PharmaGo-Icons.ttf") format("truetype");
+}
+
+.pgi{
+  display: inline-block;
+  font-family: "PharmaGo-Icons";
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+.pgi-add::before { content: "\ea01"; }
+.pgi-added::before { content: "\ea02"; }
+.pgi-cart::before { content: "\ea03"; }
+.pgi-chevron-left::before { content: "\ea04"; }
+.pgi-edit::before { content: "\ea05"; }
+.pgi-email::before { content: "\ea06"; }
+.pgi-favorite::before { content: "\ea07"; }
+.pgi-home::before { content: "\ea08"; }
+.pgi-logout::before { content: "\ea09"; }
+.pgi-moon::before { content: "\ea0a"; }
+.pgi-password::before { content: "\ea0b"; }
+.pgi-pin::before { content: "\ea0c"; }
+.pgi-search::before { content: "\ea0d"; }
+.pgi-search-big::before { content: "\ea0e"; }
+.pgi-settings::before { content: "\ea0f"; }
+.pgi-star::before { content: "\ea10"; }
+.pgi-trash::before { content: "\ea11"; }
+.pgi-user::before { content: "\ea12"; }
+.pgi-wallet::before { content: "\ea13"; }
