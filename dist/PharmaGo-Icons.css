@@ -38,6 +38,7 @@
 .pgi-search-big::before { content: "\ea10"; }
 .pgi-settings::before { content: "\ea11"; }
 .pgi-star::before { content: "\ea12"; }
-.pgi-trash::before { content: "\ea13"; }
-.pgi-user::before { content: "\ea14"; }
-.pgi-wallet::before { content: "\ea15"; }
+.pgi-sun::before { content: "\ea13"; }
+.pgi-trash::before { content: "\ea14"; }
+.pgi-user::before { content: "\ea15"; }
+.pgi-wallet::before { content: "\ea16"; }
