@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="21"
+   height="19"
+   viewBox="0 0 21 19"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="favorited.svg"
+   inkscape:version="1.1-alpha (c0348e27, 2021-02-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="32.894737"
+     inkscape:cx="10.488"
+     inkscape:cy="9.5"
+     inkscape:window-width="1327"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path2"
+     style="color:#000000;fill:#000000;-inkscape-stroke:none"
+     d="M 5.5019531 0 C 4.0429231 1.1e-08 2.6430181 0.57963212 1.6113281 1.6113281 C 0.57963713 2.6430181 1.08706e-08 4.0429131 0 5.5019531 C -1.08706e-08 6.9609831 0.57963713 8.3608781 1.6113281 9.3925781 L 2.671875 10.451172 L 10.451172 18.232422 L 18.230469 10.451172 L 19.291016 9.3925781 C 19.802016 8.8818181 20.207775 8.2748819 20.484375 7.6074219 C 20.760975 6.9399619 20.902344 6.2244331 20.902344 5.5019531 C 20.902344 4.7794631 20.760975 4.0639444 20.484375 3.3964844 C 20.207775 2.7290244 19.802016 2.1220781 19.291016 1.6113281 C 18.780216 1.1003281 18.173359 0.69453075 17.505859 0.41796875 C 16.838459 0.14140575 16.122891 0 15.400391 0 C 14.677891 7.4014868e-17 13.964375 0.14140575 13.296875 0.41796875 C 12.629475 0.69453075 12.022419 1.1003281 11.511719 1.6113281 L 10.451172 2.671875 L 9.390625 1.6113281 C 8.358935 0.57963213 6.9609831 -1.1e-08 5.5019531 0 z " />
+</svg>
